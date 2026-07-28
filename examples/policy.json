@@ -1,0 +1,12 @@
+{
+  "enabled_rules": [
+    "require_security_schemes",
+    "require_operation_security",
+    "require_429_response",
+    "require_error_response",
+    "require_operation_id",
+    "require_https_servers"
+  ],
+  "fail_on": "high",
+  "max_findings": 200
+}
